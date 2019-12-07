@@ -1,0 +1,6 @@
+E:\Csharp\BigBinary\BigBinary\bin\Release\Damage.exe.config
+E:\Csharp\BigBinary\BigBinary\bin\Release\Damage.exe
+E:\Csharp\BigBinary\BigBinary\bin\Release\Damage.pdb
+E:\Csharp\BigBinary\BigBinary\obj\Release\Damage.csproj.CoreCompileInputs.cache
+E:\Csharp\BigBinary\BigBinary\obj\Release\Damage.exe
+E:\Csharp\BigBinary\BigBinary\obj\Release\Damage.pdb
